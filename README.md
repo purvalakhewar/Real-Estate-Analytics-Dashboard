@@ -1,5 +1,6 @@
 # Real-Estate-Analytics-Dashboard
 🏠 Real Estate Dashboard – Power BI
+https://www.istockphoto.com/photo/real-estate-concept-business-home-insurance-and-real-estate-protection-real-estate-gm2154752387-575604576
 📌 Project Overview
 
 The Real Estate Dashboard is an interactive Power BI project designed to analyze and monitor real estate operations across Agents, Neighbourhoods, Officers, Owners, and Properties.
