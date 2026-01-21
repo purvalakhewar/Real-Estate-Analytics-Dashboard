@@ -87,7 +87,7 @@ Owner ID
 
 Neighbourhood ID
 
-📈 Dashboard Features
+DASHBOARDS 
 
 <img width="1182" height="742" alt="Screenshot 2026-01-05 115609" src="https://github.com/user-attachments/assets/ec8fa4be-da6d-49b4-8351-6f72076a6026" />
 <img width="1169" height="748" alt="Screenshot 2026-01-05 115619" src="https://github.com/user-attachments/assets/1d612e9f-6271-4b7d-b04d-84345633a622" />
@@ -98,8 +98,9 @@ Neighbourhood ID
 <img width="1249" height="738" alt="Screenshot 2026-01-05 115740" src="https://github.com/user-attachments/assets/4c2dc106-4ffd-4b46-aec2-0210bf12b943" />
 <img width="1264" height="741" alt="Screenshot 2026-01-05 115755" src="https://github.com/user-attachments/assets/9b6e77fd-1c82-4779-b4c6-824789f61c90" />
 <img width="1248" height="747" alt="Screenshot 2026-01-05 115807" src="https://github.com/user-attachments/assets/a68f7ba7-22a3-4013-88fa-9672a414866b" />
-<img width="1093" height="727" alt="Screenshot 2026-01-06 192630" src="https://github.com/user-attachments/assets/63b63ba2-c41d-4b5b-8257-33838cb0a11a" />
- 
+<img width="1093" height="727" alt="Screenshot 2026-01-06 192630" src="https://github.com/user-attachments/assets/63b63ba2-c41d-4b5b-8257-33838cb0a11a" />  
+
+ 📈 Dashboard Features
 Property Distribution Analysis by neighbourhood and type
 
 Agent Performance Tracking based on properties handled
